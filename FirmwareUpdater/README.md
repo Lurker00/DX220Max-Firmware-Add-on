@@ -2,10 +2,10 @@
 
 RockChip SoC based devices support firmware updates by booting from a specially prepared SD-card. The official way requires a Windows-based application from RockChip ("Create Upgrade Disk Tool", aka "SD Firmware Tool"), and a suitable device boot loader file. Using them, I've prepared such an SD-card for you.
 
-[`DX220MaxFirmwareUpdater.zip`](https://github.com/Lurker00/DX220Max-Firmware-Add-on/releases/download/DX220MaxFirmwareUpdater/DX220MaxFirmwareUpdater.zip) archive contains ready to use SD-card image file with 32GB partition, to update firmware on iBasso DX220Max.
+[`DX220MaxFirmwareUpdater.zip`](https://github.com/Lurker00/DX220Max-Firmware-Add-on/releases/download/DX220MaxFirmwareUpdater/DX220MaxFirmwareUpdater.zip) archive contains ready to use SD-card image file with 4GB partition, to update firmware on iBasso DX220Max.
 
 ## Prepare bootable SD-card
-You may use any SD-card with capacity of 32GB or more.
+You may use any SD-card with capacity of 4GB or more.
 
 **WARNING:** writing the SD-card image file erases all the data on the card! To restore the SD-card for normal use, please use [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter_4/), available for MacOS and Windows.
 

@@ -7,7 +7,7 @@ RockChip SoC based devices support firmware updates by booting from a specially 
 ## Prepare bootable SD-card
 You may use any SD-card with capacity of 4GB or more.
 
-**WARNING:** writing the SD-card image file erases all the data on the card! To restore the SD-card for normal use, please use [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter_4/), available for MacOS and Windows.
+**WARNING:** writing the SD-card image file erases all the data on the card! To restore the SD-card for normal use, please use [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/), available for MacOS and Windows.
 
 You need to unzip the downloaded archive ([`DX220MaxFirmwareUpdater.zip`](https://github.com/Lurker00/DX220Max-Firmware-Add-on/releases/download/DX220MaxFirmwareUpdater/DX220MaxFirmwareUpdater.zip)) and write the `DX220MaxFirmwareUpdater.img` file directly to SD-card. Under Windows, [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) can be used. Under Linux and MacOS, [Etcher](https://en.wikipedia.org/wiki/Etcher_(software)) GUI application performs the task (see [below](#an-instruction-for-macos-users) for example). Experienced users may use [`dd` command](https://en.wikipedia.org/wiki/Dd_(Unix)) from console, though great caution is required!
 

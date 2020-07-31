@@ -40,4 +40,4 @@ You may keep several firmware images on the bootable SD-card under different fil
 
 ## An instruction for MacOS users
 
-Please refer to [DX200 instruction](https://github.com/Lurker00/DX200-Firmware-Add-on/blob/master/FirmwareUpdater/README.md) for more information and hints.
+Please refer to [DX200 instruction](https://github.com/Lurker00/DX200-Firmware-Add-on/blob/master/FirmwareUpdater/README.md) for more information and hints, but use the image for DX220 (`DX220MaxFirmwareUpdater.img`), of course.
